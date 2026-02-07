@@ -1,0 +1,35 @@
+[
+  { "business_id": 1, "name": "Whopper Doble", "price": 24900, "description": "Hamburguesa con doble carne a la parrilla", "category": "Hamburguesas", "image": "https://images.unsplash.com/photo-1568901346375-23c9450c58cd?w=500&q=80" },
+  { "business_id": 1, "name": "Papas Medianas", "price": 8900, "description": "Papas fritas crujientes", "category": "Acompañamientos", "image": "https://images.unsplash.com/photo-1573080496987-a199f8cd75ec?w=500&q=80" },
+  { "business_id": 1, "name": "Nuggets x10", "price": 15900, "description": "Nuggets de pollo crocantes", "category": "Pollo", "image": "https://images.unsplash.com/photo-1562967914-608f82629710?w=500&q=80" },
+
+  { "business_id": 2, "name": "Dolex Forte", "price": 12500, "description": "Caja x 12 tabletas", "category": "Medicamentos", "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&q=80" },
+  { "business_id": 2, "name": "Pedialyte 500ml", "price": 8900, "description": "Suero rehidratante sabor fresa", "category": "Salud", "image": "https://images.unsplash.com/photo-1512069772995-ec65ed45afd6?w=500&q=80" },
+  { "business_id": 2, "name": "Protector Solar", "price": 45000, "description": "FPS 50+ toque seco", "category": "Cuidado Personal", "image": "https://images.unsplash.com/photo-1556228720-1987bb4eb41c?w=500&q=80" },
+
+  { "business_id": 3, "name": "Leche Alquería", "price": 5200, "description": "Bolsa 1.1 Litros Deslactosada", "category": "Lácteos", "image": "https://images.unsplash.com/photo-1550583724-b2692b85b150?w=500&q=80" },
+  { "business_id": 3, "name": "Huevos AA x30", "price": 18500, "description": "Cartón de huevos rojos", "category": "Despensa", "image": "https://images.unsplash.com/photo-1506976785307-8732e854ad03?w=500&q=80" },
+  { "business_id": 3, "name": "Pan Tajado", "price": 6500, "description": "Pan blanco tradicional", "category": "Panadería", "image": "https://images.unsplash.com/photo-1509440159596-0249088772ff?w=500&q=80" },
+
+  { "business_id": 4, "name": "Cappuccino Grande", "price": 11500, "description": "Café espresso con leche vaporizada", "category": "Bebidas Calientes", "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=500&q=80" },
+  { "business_id": 4, "name": "Frappuccino Moca", "price": 14900, "description": "Bebida fría con chocolate", "category": "Bebidas Frías", "image": "https://images.unsplash.com/photo-1572442388796-11668a67e53d?w=500&q=80" },
+  { "business_id": 4, "name": "Croissant de Mantequilla", "price": 7500, "description": "Horneado diariamente", "category": "Panadería", "image": "https://images.unsplash.com/photo-1555507036-ab1f4038808a?w=500&q=80" },
+
+  { "business_id": 5, "name": "Corralísima", "price": 28900, "description": "3/4 de libra de carne", "category": "Hamburguesas", "image": "https://images.unsplash.com/photo-1594212699903-ec8a3eca50f5?w=500&q=80" },
+  { "business_id": 5, "name": "Perro Caliente", "price": 18900, "description": "Con todo", "category": "Comidas Rápidas", "image": "https://images.unsplash.com/photo-1612392062631-94dd85fa2ddb?w=500&q=80" },
+
+  { "business_id": 6, "name": "Advil Max", "price": 15000, "description": "Alivio rápido del dolor", "category": "Medicamentos", "image": "https://images.unsplash.com/photo-1584308666744-24d5c474f2ae?w=500&q=80" },
+  { "business_id": 6, "name": "Vitamina C", "price": 22000, "description": "Tabletas efervescentes", "category": "Vitaminas", "image": "https://images.unsplash.com/photo-1584017911766-d451b3d0e843?w=500&q=80" },
+
+  { "business_id": 7, "name": "Arroz 1kg", "price": 3500, "description": "Arroz blanco premium", "category": "Despensa", "image": "https://images.unsplash.com/photo-1586201375761-83865001e31c?w=500&q=80" },
+  { "business_id": 7, "name": "Aceite Vegetal", "price": 8900, "description": "Botella 1000ml", "category": "Despensa", "image": "https://images.unsplash.com/photo-1474979266404-7eaacbcd87c5?w=500&q=80" },
+
+  { "business_id": 8, "name": "Caja x6 Donuts", "price": 24900, "description": "Surtido variado", "category": "Postres", "image": "https://images.unsplash.com/photo-1551024601-569d6f7e1278?w=500&q=80" },
+  { "business_id": 8, "name": "Café Americano", "price": 4500, "description": "Tinto clásico", "category": "Bebidas", "image": "https://images.unsplash.com/photo-1497935586351-b67a49e012bf?w=500&q=80" },
+
+  { "business_id": 9, "name": "Pollo Frisby 8 Presas", "price": 45900, "description": "Incluye arepas y miel", "category": "Pollo", "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=500&q=80" },
+  { "business_id": 9, "name": "Frisburrito", "price": 16900, "description": "Burrito de pollo con vegetales", "category": "Wraps", "image": "https://images.unsplash.com/photo-1626082927389-6cd097cdc6ec?w=500&q=80" },
+
+  { "business_id": 10, "name": "Cerveza Corona x6", "price": 28000, "description": "Botellas 355ml", "category": "Licores", "image": "https://images.unsplash.com/photo-1608270586620-248524c67de9?w=500&q=80" },
+  { "business_id": 10, "name": "Carne de Res 500g", "price": 22500, "description": "Corte fino para asar", "category": "Carnes", "image": "https://images.unsplash.com/photo-1607623814075-e51df1bdc82f?w=500&q=80" }
+]
